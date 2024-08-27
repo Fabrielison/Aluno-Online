@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Curriculum vitae</title>
+  </head>
+  <body>
+    <h1>Fabrielison Querino Henrique Gomes</h1>
+    <p><b>Nascimento:</b> <i>10/03/19993</i></p>
+    <p><b>Email:</b> <i>F.bryl.10@gmail.com</i></p>
+    <p><b>Telefone:</b> <i>(83) 99678-7581</i></p>
+    <img src="C:\DevWeb\Minha foto.JPG" alt="Imagem de perfil" width="100px" />
+    <p>
+      Buscar oportunidades que me permitam continuar aprimorando minhas habilidades técnicas e contribuir para o desenvolvimento
+       de projetos inovadores e de alta qualidade, utilizando as melhores práticas de desenvolvimento Full Stack.
+    </p>
+
+    <h3>Sumário</h3>
+    <ul>
+      <li><a href="#Endereço">Endereço</a></li>
+      <li><a href="#Experiência">Experiência</a></li>
+      <li><a href="#Competências">Competências</a></li>
+      <li><a href="#Formação Acadêmica">Formação Acadêmica</a></li>
+    </ul>
+
+    <h2 id="Endereço">Endereço</h2>
+    <hr />
+    <dl>
+      <dt><b>Rua</b></dt>
+      <dd>Rua dos Cafezais, 145</dd>
+      <dt><b>Cidade</b></dt>
+      <dd>João Pessoa, PB</dd>
+      <dt><b>Bairro</b></dt>
+      <dd>Valentina</dd>
+    </dl>
+    
+    <h2 id="Experiência">Experiência</h2>
+    <hr />
+    <dl>
+      <dt>
+        <b>
+          <a href="https://internet.tely.com.br">
+            Suporte N1 - Redes de Computadores</a>
+        </b>
+      </dt>
+      <dd>Desenvolvedor Full-Stack Pleno</dd>
+      <dd>2021 - 2022</dd>
+      <dt>
+        <b>
+          <a href="https://suporte.neocart.com.br/"> 
+            Suporte Pleno - Help desk
+          </a>
+        </b>
+      </dt>
+      <dd>Suporte Pleno</dd>
+      <dd>2023 - Atual</dd>
+    </dl>
+
+    <h2 id="Competências">Competências</h2>
+    <hr />
+    <ul>
+      <li>JavaScript</li>
+      <li>CSS</li>
+      <li>HTML</li>
+      <li>XML</li>
+    </ul>
+
+    <h2 id="Formação Acadêmica">Formação Acadêmica</h2>
+    <hr />
+    <h3>
+      <a href="https://www.unipe.edu.br/">
+        Centro Universitário de João Pessoa
+      </a>
+    </h3>
+    <p>Sistemas para Internet</p>
+    <p>2024-Atual</p>
+    <h3>
+      <a href="https://www.iesp.edu.br/">
+        Uniesp
+      </a>
+    </h3>
+    <p>Pós Graduação - Back-end Júnior </p>
+    <p>2023-2024</p>
+  </body>
+</html>
